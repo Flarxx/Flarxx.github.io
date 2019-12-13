@@ -1,0 +1,22 @@
+header h1 {
+    text-align: center;
+    font-size: 400%;
+}
+nav button {
+    font-size: 200%;
+    margin: 20px;
+    background-color: black;
+    color: crimson;
+    padding: 20px;
+    border-radius: 50%;
+}
+nav button:hover {
+    background-color: crimson;
+    color: white;
+}
+nav{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
