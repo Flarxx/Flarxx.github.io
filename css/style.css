@@ -1,19 +1,19 @@
 header h1 {
     text-align: center;
     font-size: 400%;
+    color: crimson;
 }
 
 nav button {
     font-size: 200%;
     margin: 20px;
-    background-color: black;
-    color: crimson;
+    background-color: blue;
     padding: 20px;
     border-radius: 50%;
 }
 
 nav button:hover {
-    background-color: crimson;
+    background-color: burlywood;
     color: white;
 }
 
@@ -21,17 +21,24 @@ nav {
     text-align: center;
 }
 
-.wrapper{
+.wrapper {
     text-align: center;
     margin-left: 25%;
     margin-right: 25%;
     border-style: solid;
     border-color: black;
     margin-bottom: 50px;
+    color: white;
 }
 
 footer {
+    border-top-style: solid;
+    border-top-color: white;
     background-color: black;
     color: white;
     text-align: center;
+}
+
+body {
+    background-color: black;
 }
