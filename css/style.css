@@ -2,6 +2,7 @@ header h1 {
     text-align: center;
     font-size: 400%;
 }
+
 nav button {
     font-size: 200%;
     margin: 20px;
@@ -10,13 +11,27 @@ nav button {
     padding: 20px;
     border-radius: 50%;
 }
+
 nav button:hover {
     background-color: crimson;
     color: white;
 }
-nav{
+
+nav {
     text-align: center;
 }
-footer{
+
+.wrapper{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: black;
+    color: white;
     text-align: center;
 }
