@@ -7,13 +7,13 @@ header h1 {
 nav button {
     font-size: 200%;
     margin: 20px;
-    background-color: blue;
+    background-color: brown;
     padding: 20px;
     border-radius: 50%;
 }
 
 nav button:hover {
-    background-color: burlywood;
+    background-color: darkcyan;
     color: white;
 }
 
