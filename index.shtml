@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Flarxx</title>
+    <link rel="stylesheet" href="css\style.css">
+    <script src="js.js"></script>
+</head>
+
+<body>
+    <!--#include file="headernav.html"-->
+        <p>
+            Hello and welcome to my personal site, whose i made to distribute my programs and guides on programming theme.
+        </p>
+        <h1>Who Am I</h1>
+        <p>I am 12 y.o. programmer names Katseba Andrey</p>
+        <p>I know HTML, CSS, JavaScript, simply Object Pascal, WordPress</p>
+        <p>Habrahabr: <a href="https://habr.com/ru/users/notsamerus/">https://habr.com/ru/users/notsamerus/</a></p>
+        <p>GitHub: <a href="https://github.com/Flarxx">https://github.com/Flarxx</a></p>
+        <p>ModDB: <a href="https://www.moddb.com/members/flarxx">https://www.moddb.com/members/flarxx</a></p>
+    <!--#include file="footer.html"-->
+</body>
+
+</html>

@@ -7,16 +7,7 @@
 
     </head>
     <body>
-        <header>
-            <h1>Flarxx</h1>
-        </header>
-        <nav>
-            <button class="dload" onclick="dload()">download</button>
-            <button class="sshot">screenshots</button>
-            <button class="guide">guides</button>
-            <button class="wapps">web apps</button>
-        </nav>
-        <div class="wrapper">
+        <!--#include file="headernav.html"-->
             <h1>Downloads</h1>
             <p>there you can download latest or other versions of my programs.</p>
             <p>TestIDEA(teacher client): <a href="files\TestIDEA.exe">Download</a></p>
@@ -25,10 +16,6 @@
             <p>Joke OS(VLH's linum os) v.2.0(final): <a href="files\linumOS2.exe">Download</a></p>
             <p>Thomagochi(final): <a href="files\thomagochi.exe">download</a></p>
             <p>mathematic trainer(final): <a href="files\mt.exe">dwnload</a></p>
-        </div>
-        <footer>
-            <P>This project created for distribute programs</p>  
-            <p>and guides maded by Katseba Andrey aka Flarxx</P>
-        </footer>
+        <!--#include file="footer.html"-->
     </body>
 </html>

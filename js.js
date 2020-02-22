@@ -1,6 +1,9 @@
-function dload 
-() {
-    top.location.href='dload.html';
+function dload () {
+    top.location.href='dload.shtml';
+};
+
+function home () {
+    top.location.href='index.shtml';
 };
 
 setTimeout(welcome, 5000);
