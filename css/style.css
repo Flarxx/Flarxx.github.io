@@ -1,19 +1,19 @@
 header h1 {
     text-align: center;
     font-size: 400%;
-    color: crimson;
+    color: #E1CC42;
 }
 
 nav button {
     font-size: 200%;
     margin: 20px;
-    background-color: brown;
+    background-color: #8BE15D;
     padding: 20px;
     border-radius: 50%;
 }
 
 nav button:hover {
-    background-color: darkcyan;
+    background-color: #00E19A;
     color: white;
 }
 
@@ -26,7 +26,7 @@ nav {
     margin-left: 25%;
     margin-right: 25%;
     border-style: solid;
-    border-color: black;
+    border-color: white;
     margin-bottom: 50px;
     color: white;
 }
@@ -34,11 +34,11 @@ nav {
 footer {
     border-top-style: solid;
     border-top-color: white;
-    background-color: black;
+    background-color: #237FE1;
     color: white;
     text-align: center;
 }
 
 body {
-    background-color: black;
+    background-color: #237FE1;
 }
